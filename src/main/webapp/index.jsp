@@ -21,7 +21,7 @@
 <title>Basic Struts 2 Application - Welcome</title>
 <s:head />
 
-<script type="text/javascript" src="https://cs31.salesforce.com/canvas/sdk/js/34.0/canvas-all.js"></script>
+<script type="text/javascript" src="https://lightningtestaaaa-dev-ed.my.salesforce.com/canvas/sdk/js/34.0/canvas-all.js"></script>
 <script type="text/javascript" src="scripts/json2.js"></script>
 <script>
         if (self === top) {

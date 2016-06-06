@@ -5,5 +5,4 @@
 .project
 .classpath
 keystore
-target/
 .settings/

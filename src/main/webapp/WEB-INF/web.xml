@@ -11,7 +11,7 @@
   <init-param>
   	<param-name>config</param-name>
   	<param-value>
-  		struts-default.xml,struts-plugin.xml,config/struts2/struts.xml
+  		struts-default.xml,struts-plugin.xml,../../resources/struts.xml
 	</param-value>
   </init-param>
 </filter>
